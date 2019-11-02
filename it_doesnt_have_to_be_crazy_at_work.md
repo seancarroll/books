@@ -1,20 +1,20 @@
-= It Doesn't Have to Be Crazy at Work
+# It Doesn't Have to Be Crazy at Work
 
 Authors: Jason Fried, David Heinemeier Hansson  
 Release Date: Hardcover – October 2, 2018  
 Year Read: 2019
 
-== First 
+## First 
 
 
-== Curb Your Ambition
+## Curb Your Ambition
 
 
-== Defend Your Time 
+## Defend Your Time 
 
 
 
-=== Protectionism
+### Protectionism
 
 Companies protest/guard so many things but all too often they fail to protect whats both most vulnerable and most precious: their employee's time and attention.
 
@@ -22,7 +22,7 @@ At Basecamp, we see it as our top responsibility to protect our employees' time 
 
 At Basecamp they ask people to write updates daily or weekly for others to read when they have a free moment.
 
-=== The Quality of an Hour
+### The Quality of an Hour
 
 A quality hours is 1 x 60  
 A quality day is at least 4 x 60
@@ -31,7 +31,7 @@ Look at your hours.
 If they're a bunch of fractions who or what is doing the division. 
 What can you change?
 
-=== Effective > Productive
+### Effective > Productive
 
 When people focus os productivity they end up focusing on being busy. 
 Basecamp believes in effectiveness. 
@@ -45,7 +45,7 @@ Being effective is about finding more of your time unoccupied and open for other
 If you're only get 3 hours of work to do on a given day then stop. 
 Don't fill your day with 5 more just to stay busy or feel productive.
 
-=== The Outwork Myth
+### The Outwork Myth
 
 Assuming you can work harder and longer than someone else is giving yourself too much credit for your effort and not enough of theirs.
 
@@ -56,7 +56,7 @@ Work ethic is about being a fundamentally good person that others can count on a
 
 Stop equating work ethic with excessive work hours.
 
-=== Work Doesnt Happen At Work
+### Work Doesnt Happen At Work
 
 The major distractions at work are from the inside.
 
@@ -64,7 +64,7 @@ People get more work done in interruption free zones.
 
 People are working longer and later because they can't get work done at work anymore.
 
-=== Office Hours
+### Office Hours
 
 All subject matter experts at Basecamp publish office hours. 
 Its up to each expert to decide their availability.
@@ -72,7 +72,7 @@ Its up to each expert to decide their availability.
 This might seem inefficient at first glance. 
 It turns out waiting is no big deal most of the time.
 
-=== Calendar Tetris
+### Calendar Tetris
 
 The shared work calendar is destructive.
 
@@ -86,7 +86,7 @@ Meetings should be the last resort, especially big ones.
 Nobody ever declines an invittion in good conscience. 
 No one wants to be seen as "difficult" or "inaccessible".
 
-=== The Presence Prison
+### The Presence Prison
 
 As a general rule, nobody at Basecamp really knows when anyone else is at any given moment.
 
@@ -99,7 +99,7 @@ Assume people are focused on their own work.
 Everyone's status should be implicit. 
 I'm trying to do my job, please respect my time and attention.
 
-=== I'll Get Back to You Whenver
+### I'll Get Back to You Whenver
 
 The expectation of an immediate response has become the new normal.
 
@@ -109,7 +109,7 @@ The content dictates that.
 Culture of eventual response. 
 One where we not only accept but strongly encourage people not to check email or chat or IM for long strectches of uninterrupted time.
 
-=== FOMO? JOMO!
+### FOMO? JOMO!
 
 FOMO - Fear of missing out  
 JOMO - Joy of missing out
@@ -123,9 +123,9 @@ Most of it is mundane.
 Monthly "Heart beats" - Summaries of the work and progress thats been done and had by a team, written by the team lead, to the entire company. 
 Essential points that others would care to know.
 
-== Feed Your Culture
+## Feed Your Culture
 
-=== We're Not Family
+### We're Not Family
 
 We are coworkers not family. 
 That doesn't mean we dont care about one another. 
@@ -140,7 +140,7 @@ The best companies arent families.
 They're  supporters of families. 
 Allies of families.
 
-=== They'll Do As You Do
+### They'll Do As You Do
 
 You can't credibly promote the virtues of reasonable hours, plentiful rest and a healthy lifestyle to employees if you're doing the opposite as the boss.
 
@@ -153,7 +153,7 @@ A leader who stes an example of self sacrifice cant help but ask fself sacrifice
 Workaholism is a contagious disease. 
 You cant stop the spiral if you're the one bringing it into the office.
 
-=== The Trust Battery
+### The Trust Battery
 
 Coin by Shopify CEO Tobias Lutke
 
@@ -174,7 +174,7 @@ That work should "just be about work".
 Thats just ignorant. 
 Humans are human whether they're at work or at home.
 
-=== Dont Be the Last To Know
+### Dont Be the Last To Know
 
 When the boss says "My door is always open" its a cop-out not an invitation. 
 One that puts the onus of speaking up entirely on the employees.
@@ -194,7 +194,7 @@ The CIO is usually the last to know
 
 You shouldn't ask before you're willing and able to at on the answer.
 
-=== The Owner's Word Weights a Ton
+### The Owner's Word Weights a Ton
 
 There is no such thing as a casual suggestion when to comes from the owner. 
 Inevitably becomes a top priority.
@@ -202,7 +202,7 @@ Inevitably becomes a top priority.
 It takes great restraint as the leader of an org not to keep lobbing ideas at everyone else. 
 Every such idea is a pebble thats going to cause ripples when it hits the surface.
 
-=== Low Hanging Fruit Can Still Be Out of Reach
+### Low Hanging Fruit Can Still Be Out of Reach
 
 The further away you are form the fruit the lower it looks. 
 Once you get up close you see its quite a bit higher than you thought. 
@@ -215,17 +215,17 @@ You're basically setting them up to fail.
 
 The idea that you'll instantly more needles because you've never tried to move them until now is delusional.
 
-=== Don't Cheat Sleep
+### Don't Cheat Sleep
 
 Continued sleep deprivation batters your IQ and saps your creativity
 
-=== Out of Whack
+### Out of Whack
 
 Be responsible with your tie and make sure your team knowns when you wont be arond.
 
 We ask reasonable people to make reasonable choices and the company will be reasonable back.
 
-=== Hire the Work, Not the Resume
+### Hire the Work, Not the Resume
 
 Whenever somone joins (or leaves) a team, the old team is gone. 
 Its a new team now. 
@@ -241,7 +241,7 @@ Its the same kind of work they would be doing if they got the job.
 By focusing on the person and the work we can avoid hiring an imanginary person. 
 Its easy to fall for somones well crafted story.
 
-=== Nobody Hits the ground running
+### Nobody Hits the ground running
 
 There is a matural assumption that someone who was already a specific role previously will be able to step right into that role anywhere and be effective immediately. 
 It just aint so!! 
@@ -250,7 +250,7 @@ The skills and experience needed to get traction in one place are often totally 
 
 Time to take to get up to speed can be multiplied when you have senior people who switch from a role at a big company to a little company or vice versa.
 
-=== Ignore The Talent War
+### Ignore The Talent War
 
 Talent isn't worth fighting over. 
 Talent should be thought of something that is grown and nurtured. 
@@ -258,7 +258,7 @@ Talent should be thought of something that is grown and nurtured.
 It takes patience to grow and nurture your own talent. 
 But the work it takes is the same work that improves the company for everyone.
 
-=== Don't Negoiate Salaries
+### Don't Negoiate Salaries
 
 Everyone in the same role at the same level is paid the same. 
 
@@ -276,7 +276,7 @@ They dont pay traditional bonuses so salaries are benchmarked against other comp
 No stock options instead they vowed to distribute 5% of all proceeds to all current employees if they sell the company. 
 Profit growth sharing scheme - if total profit grow year over year they distribute 25% of that growth to all current employees in that year.
 
-=== Benefits Who?
+### Benefits Who?
 
 Often benefits are used as bribes to stay at the office longer and work more hours.
 
@@ -291,7 +291,7 @@ Basecamp looks at benefits to help people get away from work and lead healthier 
 * One monthly massage. not at the office
 * $100 monthly fitnese allowance.
 
-=== Library Rules
+### Library Rules
 
 Open office plans suck at providing an environment for calm, creative work done by professionals who need peace, quiet, privacy and space to think and do their best.
 
@@ -306,7 +306,7 @@ To account for the need for the occasional full-volume collaboration they design
 
 Skeptical? Make the first Thursday of the month Library Rules day at the office.
 
-=== No Fakecations
+### No Fakecations
 
 Fakecations - where employees can still be reeled into conference calls, asked to "hop on a quick call" or expected to be available whenever a question comes up.
 
@@ -322,7 +322,7 @@ This is a guideline.
 If you need more days no problem. 
 Days aren't tracked.
 
-=== Calm Goodbyes
+### Calm Goodbyes
 
 If you don't clearly communicate to everyone why someone was let go the people who remain will ome up with their own stories to explain it.
 
@@ -340,9 +340,9 @@ When someone leaves for another job, the whole story is usually shared by the pe
 But when someone is let go, we often have to clarify once they're gone. 
 It's important that the reasons are clear and no questions linger unanswered.
 
-== Dissect Your Process
+## Dissect Your Process
 
-=== The Wrong Time For Real Time
+### The Wrong Time For Real Time
 
 Following chat at work is like being in an all-day meeting with random participants and no agenda. 
 
@@ -365,7 +365,7 @@ Give the discussion a dedicated, permanent home.
 
 Chat is great as a small slice but not the whole pie of communication.
 
-=== Dreadlines
+### Dreadlines
 
 Dreadlines - unrealistic dates mired by ever expanding project requirements. 
 More work piles on but the timeline remains the same.
@@ -390,7 +390,7 @@ A deadline with flexible scope invites pushback, compromises and trade offs.
 
 Its when you try to fix both scope and time that you have a recipe for dread, overwork, and exhaustion. 
 
-=== Dont Be a knee-jerk
+### Dont Be a knee-jerk
 
 Most companies peope put together a deck, reserve a conference room, and call a meeting to pitch a new idea. 
 When its over people react which is precisely the problem.
@@ -406,7 +406,7 @@ Basecamp prefers to present out of person, not in person.
 
 Want people to take time to read (multiple times) absorb/reflect consider.
 
-=== Watch Out For 12-day Weeks
+### Watch Out For 12-day Weeks
 
 Dont release on Friday. 
 If there are urgent issues it wrecks the weekend for those that released the software.
@@ -414,7 +414,7 @@ If there are urgent issues it wrecks the weekend for those that released the sof
 Instead of shipping on Friday wait until Monday the following week. 
 This introduces risk, releasing on perhaps the busiest day but knowing that helps better prepare for the release.
 
-=== The New Normal
+### The New Normal
 
 Unwinding the new normal requires far more effort than preventing that new normal from being set in the first place.
 
@@ -422,7 +422,7 @@ Culture is what culture does.
 Culture isn't what you intend it to be. 
 Its not what you hope or aspire for it to be.
 
-=== Bad Hanits Beat Good Intentions
+### Bad Hanits Beat Good Intentions
 
 What we do repeatedly hardens into havits. 
 The longer you carry on the tougher it is to change. 
@@ -436,7 +436,7 @@ If not, now is the time to make a change, not "later".
 Later is where excuses live. 
 Later is where good intentions go to die.
 
-=== Independencies
+### Independencies
 
 Things should fit together rather than stick together.
 
@@ -446,6 +446,3 @@ Throwing away a bunch of work simply because of the way you work on it, is a mor
 
 Dont tie knots, cut more ties. 
 The fewer the bond the better.
-
-
-

@@ -476,7 +476,7 @@ Everone is invited to pitch their ideas, make their case, and have their say, bu
 What is especially important in a disagree-and-commit situations is that the final decision should be explained clearly to everyone involved. 
 It's not just decide and go, it's decide, explain, and go.
 
-=== Compromise on quality
+### Compromise on quality
 
 You just can't bring your A game to every situation. 
 Knowing when to embrace Good Enough is what gives you the opportunity to be truly excellent when you need to be.
@@ -490,7 +490,7 @@ The challenge lies in figuring out wher eyou can be just kinda okay or even down
 
 Being clear about what demands excellence and what's perfectly okay just being adequate is a great way to bring a sense of calm into your work.
 
-=== Narrow as you go
+### Narrow as you go
 
 If you actually want to make progress, you have to narrow as you go.
 
@@ -518,7 +518,7 @@ Confidently close that dorr.
 Accept that better ideas aren't necessarily better if they arrive after the train as left the station. 
 If they're so good, they can catch the next one.
 
-=== Why not nothing
+### Why not nothing
 
 "Doing nothing isn't an option"
 
@@ -530,7 +530,7 @@ And it's often the best one.
 Change makes things worse all the time. 
 It's easier to fuch up something that's working well than it is to genuinely improve it.
 
-=== It's Enough
+### It's Enough
 
 Calm requires getting comfortable with enough.
 
@@ -538,6 +538,6 @@ While there's no hard-line definition of when's enough or what's enough in every
 
 Find the appropriate balance 
 
-=== Worst practices
+### Worst practices
 
 

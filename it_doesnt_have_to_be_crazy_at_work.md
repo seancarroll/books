@@ -446,3 +446,98 @@ Throwing away a bunch of work simply because of the way you work on it, is a mor
 
 Dont tie knots, cut more ties. 
 The fewer the bond the better.
+
+### Commitment, not consensus
+
+For most business, the cost of consensus is simply too much to pay over and over again.
+
+When you get a bunch of people in a room under the assumption that consensus is the only way out again, you're in for a war of attrition. 
+Whoever can keep arguiying the longest stands the best chance of wining. 
+That's just silly.
+
+What to do instead? 
+Good decisions dont just spring into the mind of a single individual. 
+They're always going to be the product of consultation, evidence, arguments, and debate. 
+But the only sustainable method in business is to have them made by individuals. 
+
+Someone in charge has to make the final call, even if others would prefer a different decision. 
+Good decisions dont so much need consensus as they need commitment. 
+
+Can disagree but commit.
+
+Companies waste an enormous amount of time and energy trying to convice everyone to agree before moving forward on something. 
+What they'll often get is reluctant acceptance that masks secret resentment.
+
+Instead, they should allow everyone to be heard and then turn the decision over to one person to make the final call. 
+It's their job to listen, consider, comtemplate, and decide.
+
+Everone is invited to pitch their ideas, make their case, and have their say, but then the decision is left to somone else.
+
+What is especially important in a disagree-and-commit situations is that the final decision should be explained clearly to everyone involved. 
+It's not just decide and go, it's decide, explain, and go.
+
+=== Compromise on quality
+
+You just can't bring your A game to every situation. 
+Knowing when to embrace Good Enough is what gives you the opportunity to be truly excellent when you need to be.
+
+We're not suggesting you put shit work out there. 
+You need to be able to be proud of it, even if it's only "okay".
+
+Rather than put endless effort into every detail, we put lots of effort into separating what really matters from what sort of matters from what doesn't matter at all.
+The act of separation shoujld be your highest-quality endeavor.
+The challenge lies in figuring out wher eyou can be just kinda okay or even downright weak.
+
+Being clear about what demands excellence and what's perfectly okay just being adequate is a great way to bring a sense of calm into your work.
+
+=== Narrow as you go
+
+If you actually want to make progress, you have to narrow as you go.
+
+After the initial dust settles, the work required to finish a project should be dwindling over time, not expanding. 
+The deadline shoudl be comfortably approaching, not scarily arriving. 
+Rembember: Deadlines, not dreadlines.
+
+Quickly begin prototyping as soon as we can in those the first two weeks. 
+We're often looking for something real in the first day or two. 
+Nothing tells the trutch like actually experiencing the idea in real life. 
+That's the first time we know if what we had in our heads is actually going to work or not.
+
+But after that-- after that brief period of exploration at the beginning of a project--it's time to focus in and get narrow. 
+It's a tiem for tunnel vision.
+
+Once the initial exploration is over, every week should lead us closer to being done, not futher from it. 
+Commit to and idea. 
+See it throught. 
+Make it happen.
+You can always go back later, but only if you actually finish.
+
+It's not that new approaches or diea are bad, but their timing may well be. 
+Always keeping the door open to radical changes only invites chaos and second guessing. 
+Confidently close that dorr. 
+Accept that better ideas aren't necessarily better if they arrive after the train as left the station. 
+If they're so good, they can catch the next one.
+
+=== Why not nothing
+
+"Doing nothing isn't an option"
+
+Oh, yes, it is. 
+And it's often the best one.
+
+"Nothing" should always be on the table.
+
+Change makes things worse all the time. 
+It's easier to fuch up something that's working well than it is to genuinely improve it.
+
+=== It's Enough
+
+Calm requires getting comfortable with enough.
+
+While there's no hard-line definition of when's enough or what's enough in every situation, one things for sure: If it's enver enough, then it'll walys be crazy at work.
+
+Find the appropriate balance 
+
+=== Worst practices
+
+

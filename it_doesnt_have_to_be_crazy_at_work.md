@@ -225,5 +225,227 @@ Be responsible with your tie and make sure your team knowns when you wont be aro
 
 We ask reasonable people to make reasonable choices and the company will be reasonable back.
 
-=== Hire the WOrk, Not the Resume
+=== Hire the Work, Not the Resume
+
+Whenever somone joins (or leaves) a team, the old team is gone. 
+Its a new team now. 
+No matter the group, every personnel change chagnes the dynamics.
+
+At Basecamp they put a real project project in front of the candidate so they can show what they can do. 
+Hire them for a week and ask them to do a sample project. 
+
+No riddles, blackboard problems, or fake "come up with an answer on teh spot" scenarios. 
+They give peopel real work to do and appropriate time to do it in. 
+Its the same kind of work they would be doing if they got the job.
+
+By focusing on the person and the work we can avoid hiring an imanginary person. 
+Its easy to fall for somones well crafted story.
+
+=== Nobody Hits the ground running
+
+There is a matural assumption that someone who was already a specific role previously will be able to step right into that role anywhere and be effective immediately. 
+It just aint so!! 
+Organizations differ widely. 
+The skills and experience needed to get traction in one place are often totally different somwhere else.
+
+Time to take to get up to speed can be multiplied when you have senior people who switch from a role at a big company to a little company or vice versa.
+
+=== Ignore The Talent War
+
+Talent isn't worth fighting over. 
+Talent should be thought of something that is grown and nurtured. 
+
+It takes patience to grow and nurture your own talent. 
+But the work it takes is the same work that improves the company for everyone.
+
+=== Don't Negoiate Salaries
+
+Everyone in the same role at the same level is paid the same. 
+
+Levels: junior, senior, lead, principal.
+
+Every year they review market rates and issue raises. 
+Target is to pay everyone at the top 10% of the market regardless of their role. 
+If below the target you get a raise to match target. 
+If already above they stay were they are at. 
+If promoted they get a raise to match the market rate. 
+Market rates are from a variety of salary surveying companies. 
+Market rates based on San Francisco. 
+Its the highest paying city in the world for their industry. 
+They dont pay traditional bonuses so salaries are benchmarked against other companies salaries and bonus packages. 
+No stock options instead they vowed to distribute 5% of all proceeds to all current employees if they sell the company. 
+Profit growth sharing scheme - if total profit grow year over year they distribute 25% of that growth to all current employees in that year.
+
+=== Benefits Who?
+
+Often benefits are used as bribes to stay at the office longer and work more hours.
+
+Basecamp looks at benefits to help people get away from work and lead healthier more interesting lives.
+
+* Fully paid vacations every year for anyone who has been with the cmpany for more than a year. Up to $5000 per person or family.
+* 3 day weekends all summar. May through September. Friday or Monday off.
+* 30 day paid sabbatical every 3 years
+* $1000 per year continuing education stipend. not about learning a skill people can use at work. its about everything outside of work.
+* $2000 charity match
+* A local monthly CSA (community supported agriculture) share.
+* One monthly massage. not at the office
+* $100 monthly fitnese allowance.
+
+=== Library Rules
+
+Open office plans suck at providing an environment for calm, creative work done by professionals who need peace, quiet, privacy and space to think and do their best.
+
+Its even worse when you mix professions with difference requirements.
+
+Library rules at the office
+* If someone is at their desk we assume they're deep in thought and focused on their work. 
+That means don't walk up to them and interrupt them.
+* Conversations should be kept to a whisper.
+
+To account for the need for the occasional full-volume collaboration they designed a handful of small rooms in the center of the office.
+
+Skeptical? Make the first Thursday of the month Library Rules day at the office.
+
+=== No Fakecations
+
+Fakecations - where employees can still be reeled into conference calls, asked to "hop on a quick call" or expected to be available whenever a question comes up.
+
+Fakecations put employees on a leash.
+
+Unlimited vacation is a stressful benefit beause its not truely unlimited. 
+Ambiguity breeds anxiety. 
+People actually end up taking less time off. 
+They err on the safe side.
+
+Basecamp offers 3 weeks paid vacation, a fw extra personal days to use at your own discretion and standard national holidays every year. 
+This is a guideline. 
+If you need more days no problem. 
+Days aren't tracked.
+
+=== Calm Goodbyes
+
+If you don't clearly communicate to everyone why someone was let go the people who remain will ome up with their own stories to explain it.
+
+A dismissal opens a vacuum and unless you fill that vacuum with facts it'll quickly fill with rumos, conjecture, anxiety and fear. 
+If you want to avoid that you simply have to be honest and clear with everyone about what happened.
+
+Whenever someone leaves Basecamp an immediate goodbye accouncement is sent out company wide. 
+The announcement is written by either the person leaving or their manager. 
+It's their choice. 
+Either way somone has to write one. 
+The person leaving then gets to see all the resonses to the announcement from everyone else in the company. 
+
+Note: If their message to the company doesn't include exact details on why they are leaving their manager will post a follow up mesage the following week filling in the gaps. 
+When someone leaves for another job, the whole story is usually shared by the person who's leaving. 
+But when someone is let go, we often have to clarify once they're gone. 
+It's important that the reasons are clear and no questions linger unanswered.
+
+== Dissect Your Process
+
+=== The Wrong Time For Real Time
+
+Following chat at work is like being in an all-day meeting with random participants and no agenda. 
+
+If you're not at your station when the conversation rolls by you'll never get a chance to put in your two cents. 
+This means if you want to have your say you need to be paying attention all day. 
+
+Chat is great for hashing stuff out quickly when speed is truely important such as an emergency/crisis. 
+
+Almost everything can and should wait until someone has had a chance to think it through and property write it up.
+
+When it comes to chat we have two primary rules of thumb: 
+* "Real-time sometimes, asynchronous most of the time" 
+* "If it's important, slow down"
+
+Important topics need time, traction, and separation from the rest of the chatter.
+
+If something is being discussed in chat room and its clearly too important to process one line at a time, we ask peopele to "write it up" instead. 
+This goes together with the rule "If everyone needs to see it, dont chat about it. 
+Give the discussion a dedicated, permanent home.
+
+Chat is great as a small slice but not the whole pie of communication.
+
+=== Dreadlines
+
+Dreadlines - unrealistic dates mired by ever expanding project requirements. 
+More work piles on but the timeline remains the same.
+
+Without a fixed, believable deadline you cant work calmly. 
+
+Basecamp does fixed deadlines but what variable is the scope of hte problem - the work itself. 
+But only on the downside. 
+Projects can only get smaller over time.
+
+As we progress, we separate the must haves from the nice to haves and toss out the non-essentials.
+
+The team working on the work decides what stays and what goes in a fixed period of time. 
+They have control over the work.
+
+Another way to think about your deadlines is that they're based on budgets, not estimates. 
+People suck at estimates but are quite good at setting and spending budgets.
+
+Ex: if we tell a team that they have six weeks to build a great calendar feature they're much more likely to produce great work them if we asked them how long it'll take to build this specific calendar feature.
+
+A deadline with flexible scope invites pushback, compromises and trade offs.
+
+Its when you try to fix both scope and time that you have a recipe for dread, overwork, and exhaustion. 
+
+=== Dont Be a knee-jerk
+
+Most companies peope put together a deck, reserve a conference room, and call a meeting to pitch a new idea. 
+When its over people react which is precisely the problem.
+
+Flip the script.
+
+Instead at Basecamp when we present work its almost always written up first. 
+A complete idea in the form of a carefully composed multipage document. 
+Illustrated whenever possible. 
+Then posted to Basecamp which lets everyone involved know theres a complete idea waiting to be considered. Considered!
+
+Basecamp prefers to present out of person, not in person.
+
+Want people to take time to read (multiple times) absorb/reflect consider.
+
+=== Watch Out For 12-day Weeks
+
+Dont release on Friday. 
+If there are urgent issues it wrecks the weekend for those that released the software.
+
+Instead of shipping on Friday wait until Monday the following week. 
+This introduces risk, releasing on perhaps the busiest day but knowing that helps better prepare for the release.
+
+=== The New Normal
+
+Unwinding the new normal requires far more effort than preventing that new normal from being set in the first place.
+
+Culture is what culture does. 
+Culture isn't what you intend it to be. 
+Its not what you hope or aspire for it to be.
+
+=== Bad Hanits Beat Good Intentions
+
+What we do repeatedly hardens into havits. 
+The longer you carry on the tougher it is to change. 
+All your best intentions about doing the right thinkg "later" are no match for power of habits.
+
+When calm starts early, calm becomes he habit. 
+
+You have to keep asking yourself if the way you're working today is the way you'd want to work in 10, 20, 30 years. 
+If not, now is the time to make a change, not "later".
+
+Later is where excuses live. 
+Later is where good intentions go to die.
+
+=== Independencies
+
+Things should fit together rather than stick together.
+
+Dependencies are tangled, interwined teams, groups, or individuals that cant move independently of one another.
+
+Throwing away a bunch of work simply because of the way you work on it, is a morale gut punch.
+
+Dont tie knots, cut more ties. 
+The fewer the bond the better.
+
+
 
